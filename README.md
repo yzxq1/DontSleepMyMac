@@ -1,8 +1,10 @@
-# Don't Sleep My Mac
+<div align="center">
+  <img src="images/app-icon.png" width="128" height="128" alt="Don't Sleep My Mac 图标" />
+  <h1>Don't Sleep My Mac</h1>
+  <p>轻量的 macOS 菜单栏防休眠工具。锁屏继续工作，按需保持合盖运行，也可以设置持续时间和低电量停止条件。</p>
+</div>
 
 ![Don't Sleep My Mac 功能预览](images/overview.png)
-
-轻量的 macOS 菜单栏防休眠工具。锁屏继续工作，按需保持合盖运行，也可以设置持续时间和低电量停止条件。
 
 本仓库提供软件介绍、界面图片和安装包，不公开源码。
 
